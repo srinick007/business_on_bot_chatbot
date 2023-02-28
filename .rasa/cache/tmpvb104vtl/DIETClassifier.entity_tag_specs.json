@@ -1,0 +1,52 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-number1",
+      "2": "I-number1",
+      "3": "L-number1",
+      "4": "U-number1",
+      "5": "B-number2",
+      "6": "I-number2",
+      "7": "L-number2",
+      "8": "U-number2",
+      "9": "B-place",
+      "10": "I-place",
+      "11": "L-place",
+      "12": "U-place",
+      "13": "B-shirt_size",
+      "14": "I-shirt_size",
+      "15": "L-shirt_size",
+      "16": "U-shirt_size",
+      "17": "B-variable",
+      "18": "I-variable",
+      "19": "L-variable",
+      "20": "U-variable",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-number1": 1,
+      "I-number1": 2,
+      "L-number1": 3,
+      "U-number1": 4,
+      "B-number2": 5,
+      "I-number2": 6,
+      "L-number2": 7,
+      "U-number2": 8,
+      "B-place": 9,
+      "I-place": 10,
+      "L-place": 11,
+      "U-place": 12,
+      "B-shirt_size": 13,
+      "I-shirt_size": 14,
+      "L-shirt_size": 15,
+      "U-shirt_size": 16,
+      "B-variable": 17,
+      "I-variable": 18,
+      "L-variable": 19,
+      "U-variable": 20,
+      "O": 0
+    },
+    "num_tags": 21
+  }
+]

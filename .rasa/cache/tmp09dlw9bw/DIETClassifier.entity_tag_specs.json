@@ -1,0 +1,44 @@
+[
+  {
+    "tag_name": "entity",
+    "ids_to_tags": {
+      "1": "B-number1",
+      "2": "I-number1",
+      "3": "L-number1",
+      "4": "U-number1",
+      "5": "B-number2",
+      "6": "I-number2",
+      "7": "L-number2",
+      "8": "U-number2",
+      "9": "B-place",
+      "10": "I-place",
+      "11": "L-place",
+      "12": "U-place",
+      "13": "B-variable",
+      "14": "I-variable",
+      "15": "L-variable",
+      "16": "U-variable",
+      "0": "O"
+    },
+    "tags_to_ids": {
+      "B-number1": 1,
+      "I-number1": 2,
+      "L-number1": 3,
+      "U-number1": 4,
+      "B-number2": 5,
+      "I-number2": 6,
+      "L-number2": 7,
+      "U-number2": 8,
+      "B-place": 9,
+      "I-place": 10,
+      "L-place": 11,
+      "U-place": 12,
+      "B-variable": 13,
+      "I-variable": 14,
+      "L-variable": 15,
+      "U-variable": 16,
+      "O": 0
+    },
+    "num_tags": 17
+  }
+]
