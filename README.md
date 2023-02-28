@@ -2,12 +2,16 @@
  
  Build a Bot to do basic mathematical operations that can do addition,subtraction,multiplication,division
  
+ ![image](https://user-images.githubusercontent.com/97779349/221863405-a3efe58c-29fd-4c11-b541-04fc3283291c.png)
+ 
+ 
  Chatbot can  Handle small talk in English like:
     - greeting
     - goodbye
     - cheer you up
 
-![image](https://user-images.githubusercontent.com/97779349/221863405-a3efe58c-29fd-4c11-b541-04fc3283291c.png)
+![image](https://user-images.githubusercontent.com/97779349/221865164-74512801-e721-40d9-982b-b69e7778004c.png)
+
 
 
 After the flow ends - If a user says "reset" , take the new inputs and proceed
